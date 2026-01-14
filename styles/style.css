@@ -256,3 +256,18 @@ header {
     padding-left: 43px;
     padding-right: 43px;
 }
+
+/* footer section related styles */
+footer{
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 50px 0;
+}
+footer .section-title{
+    font-family: lobster;
+    color: #FF5959;
+}
+.footer-des{
+    color: #D9DBE1;
+    line-height: 1.5rem;
+}
